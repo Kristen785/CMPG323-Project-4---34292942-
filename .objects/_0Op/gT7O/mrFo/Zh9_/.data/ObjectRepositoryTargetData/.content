@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x5P9kjzNUUKiwk0zILGE6w" Reference="G1tAx-YiYE6b213muc31Gw/Zh9_gwpBEEKnWUDBi3yQWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Register" CVScreenId="ea60a3fd-514d-4a20-a80a-57cda97aeae7" CvElementArea="293, 326, 337, 60" CvType="InputBox" DesignTimeRectangle="294, 326, 335, 58" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='Input.Email' tag='INPUT' type='' class='form-control valid' placeholder='name@example.com' aaname='' /&gt;" Guid="2de02ba6-412d-4795-880f-d637fcb9f16d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ea60a3fd-514d-4a20-a80a-57cda97aeae7" CvElementArea="293, 326, 337, 60" CvType="InputBox" DesignTimeRectangle="294, 326, 66, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Email' check:innerText='Email' /&gt;" Guid="c7044425-2be1-4c4e-b35b-78a9abcc1697" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="746d3ece711b9042bf1b046e406493cc.png" xmlns="">0orVtwcvrp0yiM55gqWCxkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

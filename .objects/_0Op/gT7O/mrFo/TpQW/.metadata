@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Email'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "TpQWxZQHnk-Y-I4PZURXig",
+  "Reference": "G1tAx-YiYE6b213muc31Gw/TpQWxZQHnk-Y-I4PZURXig",
+  "ParentRef": "G1tAx-YiYE6b213muc31Gw/mrFoW9bBtUeqgIzKNVpaNA",
+  "Created": "2024-09-08T11:04:10.4813768Z",
+  "Updated": "2024-09-08T11:04:10.4813768Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

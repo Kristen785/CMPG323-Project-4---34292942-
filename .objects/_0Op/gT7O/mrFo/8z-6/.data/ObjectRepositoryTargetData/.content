@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WGko9F_Yn0a9DJv-6KtSiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Register" CVScreenId="1ce34b10-ab43-4adf-ad8e-9c820855efe4" CvElementArea="291, 472, 340, 62" CvType="InputBox" DesignTimeRectangle="294, 474, 335, 58" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl name='Input.ConfirmPassword' tag='INPUT' type='password' class='form-control valid' placeholder='password' aaname='' /&gt;" Guid="dbff6917-62ae-4054-b1a0-8e6b2e5c38bd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ce34b10-ab43-4adf-ad8e-9c820855efe4" CvElementArea="291, 472, 340, 62" CvType="InputBox" DesignTimeRectangle="294, 474, 157, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Confirm Password' tag='LABEL' type='' class='' check:innerText='Confirm Password' /&gt;" Guid="5b909849-f111-478c-bd45-1cc78c3ac243" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c2c11cbfab7f00be571cc9bca00554c6.png" xmlns="">0NLlSvg7jIU-Lw7HtBsAqXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Register'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kbJnN8K170KJGB6b6rvBkg",
+  "Reference": "G1tAx-YiYE6b213muc31Gw/kbJnN8K170KJGB6b6rvBkg",
+  "ParentRef": "G1tAx-YiYE6b213muc31Gw/mrFoW9bBtUeqgIzKNVpaNA",
+  "Created": "2024-09-08T10:40:39.0123833Z",
+  "Updated": "2024-09-08T10:40:39.0123833Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

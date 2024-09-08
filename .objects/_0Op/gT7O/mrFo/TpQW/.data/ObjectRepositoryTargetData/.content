@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VwS51y9aKkSqVH1w2sG9tA" Reference="G1tAx-YiYE6b213muc31Gw/TpQWxZQHnk-Y-I4PZURXig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="6875a056-2229-4eaf-8c18-e70f5483817a" CvElementArea="27, 363, 219, 51" CvTextArea="75, 382, 37, 16" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="28, 365, 218, 48" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Login                     ' tag='A' type='' class='nav-link active' check:innerText='Login' /&gt;" Guid="48553c3c-6d77-47ca-b646-a6c3f3415229" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="28478220aa73d9a6f858f1b850303c01.png" xmlns="">0OYdGqRUed0m6D9YYZpQcQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

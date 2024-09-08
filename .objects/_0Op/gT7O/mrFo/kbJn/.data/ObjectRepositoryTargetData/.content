@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PlPB1WxAyUGOL4fbjQlTKg" Reference="G1tAx-YiYE6b213muc31Gw/kbJnN8K170KJGB6b6rvBkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Register" CVScreenId="1ce34b10-ab43-4adf-ad8e-9c820855efe4" CvElementArea="291, 546, 340, 52" CvTextArea="423, 561, 78, 24" CvTextArgument="Register" CvType="Button" DesignTimeRectangle="294, 548, 335, 48" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='w-100 btn btn-lg btn-primary' aaname='Register' check:innerText='Register' /&gt;" Guid="b0b5cce9-809c-4491-8cb3-ca9d93518acf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b30f430365eb884f72774ccb536e376e.png" xmlns="">05KY5GlWxkEu8SVCHsMapbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
