@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="G7KCvB9Uzke0XxNaxkEqsg" Reference="G1tAx-YiYE6b213muc31Gw/J4kGZPUOeUe5UrzDS22WEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="11ac23e8-5671-49a0-b00a-193e33e37380" CvElementArea="292, 439, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 440, 335, 58" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='form-control valid' placeholder='password' aaname='' /&gt;" Guid="20b18cab-2539-4c1e-9e72-6d79b6bea9f6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="11ac23e8-5671-49a0-b00a-193e33e37380" CvElementArea="292, 439, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 440, 96, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='form-label' check:innerText='Password' /&gt;" Guid="463f56f2-8ec4-49a3-88ee-1b0979121bc4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="868ca1cc4aef680867cbe1e0c067c345.png" xmlns="">0vX57BKtB40miHLY8pWQszg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

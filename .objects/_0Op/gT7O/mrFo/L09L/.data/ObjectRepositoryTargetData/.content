@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="r-k_PZmuGkyBezOCSaYXYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="BhUuz8LhSkCiA4p6BUwN1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="6875a056-2229-4eaf-8c18-e70f5483817a" CvElementArea="292, 437, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 438, 335, 58" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='form-control valid' placeholder='password' aaname='' /&gt;" Guid="8c745e5f-9dd1-4ad0-9e88-627100c6da70" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="11ac23e8-5671-49a0-b00a-193e33e37380" CvElementArea="292, 439, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 440, 335, 58" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='form-control valid' placeholder='password' aaname='' /&gt;" Guid="7b3e71a9-935a-4cbf-977b-298592887808" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="6875a056-2229-4eaf-8c18-e70f5483817a" CvElementArea="292, 437, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 438, 96, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='form-label' check:innerText='Password' /&gt;" Guid="1028338a-022d-4f59-aad2-fa8558a98c19" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="11ac23e8-5671-49a0-b00a-193e33e37380" CvElementArea="292, 439, 339, 61" CvType="InputBox" DesignTimeRectangle="294, 440, 96, 58" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='form-label' check:innerText='Password' /&gt;" Guid="8643fe71-00f3-492b-8364-a0ebc3e13cdc" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="fd03f9b2177bc8b4e1ec05846ed57bcb.png" xmlns="">09nKSctWtBkKi_9qicJSvyw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="868ca1cc4aef680867cbe1e0c067c345.png" xmlns="">0a_lpuKlqAkWhCvltHc_QkA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
