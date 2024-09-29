@@ -1,6 +1,7 @@
-#CMPG323-Project-4---34292942-
+**#CMPG323-Project-4---34292942-**
 
 Introduction
+
 This README offers a description of a Robotic Process Automation (RPA) project that aims to automate the web application's User Acceptance Testing (UAT).
 User Acceptance Testing is an important phase in the software development lifecycle (equivalent to the automation development lifecycle) since it ensures that the input data 
 delivers the intended result. The RPA system mentioned here automates the repetitious activity of completing UAT for web applications, hence reducing time and increasing efficiency.
